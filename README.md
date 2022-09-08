@@ -10,3 +10,9 @@ https://github.com/enzocampos/Impressive-Python/blob/main/Automation%20of%20Syst
 ```javascript
 https://github.com/enzocampos/Impressive-Python/blob/main/Python%20Data%20Analysis.py
 ```
+
+## Python Web Automation Project
+
+```javascript
+
+```
