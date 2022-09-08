@@ -18,5 +18,5 @@ https://github.com/enzocampos/Impressive-Python/blob/main/Web%20Automation%20and
 
 ## Python Data Science Project
 ```javascript
-
+https://github.com/enzocampos/Impressive-Python/blob/main/Data%20Science%20Project%20-%20Sales%20Forecast.py
 ```
